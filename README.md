@@ -33,7 +33,7 @@ pip install requests geopy prettytable
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/File_name.git
+git clone https://github.com/yourusername/repositoryname.git
 cd Address_to_project_folder
 ```
 
